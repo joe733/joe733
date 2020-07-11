@@ -3,8 +3,8 @@
 I'm Jovial Joe Jayarson, you can call me joe. I'm a technology enthusiast. Sometimes we all are like 🔋 drained of ⚡️ maybe you are too. At such times let's `get` a quote that helped me a lot!
 
 <p align="center">
-  <img src='https://i.stack.imgur.com/XfptG.png' width='250' />
-  <img src='https://i.stack.imgur.com/UbstJ.png' width='250' />
+  <img src='https://i.stack.imgur.com/XfptG.png' width='350' />
+  <img src='https://i.stack.imgur.com/UbstJ.png' width='350' />
 </p>
 
 - Run through [my software projects](https://github.com/joe733?tab=repositories) 📦 to see what I'm working on (you can skip the [forks](https://github.com/joe733?tab=repositories&q=&type=source&language=) 😉).
