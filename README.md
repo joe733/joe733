@@ -16,6 +16,10 @@ I'm Jovial Joe Jayarson, you can call me joe. I'm a technology enthusiast. Somet
 
 📊 Stats for nerds 🤓
 <!--START_SECTION:waka-->
+```text
+Python      38 mins             █████████████████░░░░░░░░   67.76 
+Markdown    18 mins             ████████░░░░░░░░░░░░░░░░░   32.24
+```
 <!--END_SECTION:waka-->
 
 <br /><br />
