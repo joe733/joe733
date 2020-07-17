@@ -10,7 +10,7 @@ I'm Jovial Joe Jayarson, you can call me joe. I'm a technology enthusiast. Somet
 - Run through [my software projects](https://github.com/joe733?tab=repositories) 📦 to see what I'm working on (you can skip the [forks](https://github.com/joe733?tab=repositories&q=&type=source&language=) 😉).
 - Awesome 🤩 fields that I aspire to work in are: *Deep Learning* 🧬, *Quantum Programming* 👨‍💻, *Flutter* 💙, *IOTA* 💸 & *Raspberry Pi* 🎛.
 - Coding languages that I love ❤️ to work with and talk about are **Python** 🐍, **Nim** 👑 and **Dart** 🎯.
-- I also write ✍️ semi-technical stuff. You can find my articles on [Medium](https://medium.com/@joe733/) and [Devto](https://dev.to/joe733/).
+- I also write ✍️ semi-technical stuff. You can find my articles on [Medium](https://medium.com/@joe733/) and [Devto](https://dev.to/joe733/) profiles.
 
 <br />
 
