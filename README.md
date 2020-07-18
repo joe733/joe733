@@ -14,7 +14,19 @@ I'm Jovial Joe Jayarson, you can call me *joe*. I'm a technology enthusiast. Som
 
 <br />
 
-📊 Stats for nerds 🤓
+
+<table>
+<thead>
+<tr>
+	<th colspan="2">📊 Stats for nerds 🤓</th>
+</tr>
+
+<tr><td>
+
+[![Jovial's github stats](https://github-readme-stats.vercel.app/api?username=joe733)](https://github.com/joe733)
+
+</td><td>
+
 <!--START_SECTION:waka-->
 ```text
 Week : July 10 - July 17
@@ -27,10 +39,13 @@ HTML        8 mins              ░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+</td></tr>
+</table>
+
 <br />
 
 <p align ='center'>
-	<a href='https://www.linkedin.com/in/joe733'><img src='https://i.stack.imgur.com/gWQXc.png' width='32'/></a> &emsp;
-	<a href='https://twitter.com/joe_733'><img src='https://i.stack.imgur.com/HZHmV.png' width='32'/></a> &emsp;
-	<a href='https://t.me/joe733'><img src='https://i.stack.imgur.com/rmb2x.png' width='32'/></a>
+	<a href='https://www.linkedin.com/in/joe733'><img src='https://i.stack.imgur.com/gWQXc.png' width='28'/></a> &emsp;
+	<a href='https://twitter.com/joe_733'><img src='https://i.stack.imgur.com/HZHmV.png' width='28'/></a> &emsp;
+	<a href='https://t.me/joe733'><img src='https://i.stack.imgur.com/rmb2x.png' width='28'/></a>
 </p>
