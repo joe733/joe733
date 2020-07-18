@@ -17,7 +17,7 @@ I'm Jovial Joe Jayarson, you can call me *joe*. I'm a technology enthusiast. Som
 📊 Stats for nerds 🤓
 <!--START_SECTION:waka-->
 ```text
-Week #29 : July 13 - 18
+Week : July 10 - July 17
 
 Python      3 hrs 42 mins       █████████████░░░░░░░░░░░░   52.1% 
 Markdown    2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.21% 
