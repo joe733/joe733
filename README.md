@@ -29,7 +29,7 @@ I'm Jovial Joe Jayarson, you can call me *joe*. I'm a technology enthusiast. Som
 
 <!--START_SECTION:waka-->
 ```text
-Week : July 10 - July 17
+Week: 10 July, 2020 - 17 July, 2020
 
 Python      3 hrs 42 mins       █████████████░░░░░░░░░░░░   52.1 % 
 Markdown    2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.21 % 
