@@ -29,13 +29,11 @@ I'm Jovial Joe Jayarson, you can call me *joe*. I'm a technology enthusiast. Som
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 July, 2020 - 17 July, 2020
-
-Python      3 hrs 42 mins       █████████████░░░░░░░░░░░░   52.10 % 
-Markdown    2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.21 % 
-Dart        38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Docker      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-HTML        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Python      4 hrs 10 mins       █████████████░░░░░░░░░░░░   53.29 % 
+Markdown    2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.37 % 
+Dart        38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+Docker      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+HTML        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 <!--END_SECTION:waka-->
 
