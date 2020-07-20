@@ -29,11 +29,11 @@ I'm Jovial Joe Jayarson, you can call me *joe*. I'm a technology enthusiast. Som
 
 <!--START_SECTION:waka-->
 ```text
-Python      4 hrs 10 mins       █████████████░░░░░░░░░░░░   53.29 % 
-Markdown    2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.37 % 
-Dart        38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-Docker      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-HTML        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+Python      3 hrs 32 mins       ████████████░░░░░░░░░░░░░   51.30 % 
+Markdown    2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.52 % 
+Dart        38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+Docker      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+HTML        8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 <!--END_SECTION:waka-->
 
