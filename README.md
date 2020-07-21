@@ -21,6 +21,8 @@ I'm @joe33. I'm a technology enthusiast.
 
 <!--START_SECTION:waka-->
 ```text
+Week: 13 July, 2020 - 20 July, 2020
+
 Python     3 hrs 36 mins   █████████████░░░░░░░░░░░░   53.69 % 
 Markdown   2 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   31.93 % 
 Dart       38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
