@@ -1,23 +1,20 @@
-<p align='center'>
-<img src='https://i.stack.imgur.com/UbstJ.png' width='700' />
-</p>
+<img src='https://i.stack.imgur.com/UbstJ.png' />
 
 ### Hello! 👋
-I'm @joe33. I'm a technology enthusiast.
+I'm [joe733](https://github.com/joe733). I'm a technology enthusiast.
 
-- Run through [my software projects](https://github.com/joe733?tab=repositories) 📦 to see what I'm working on.
-- Awesome 🤩 fields that I aspire to work in are:
-	- *Deep Learning* 🧬
-	- *Quantum Programming* 👨‍💻,
-	- *Flutter* 💙,
-	- *IOTA* 💸 &
-	- *Raspberry Pi* 🎛.
-- Coding languages that I love ❤️ to work with and talk about are **Python** 🐍, **Nim** 👑 and **Dart** 🎯.
-- I also write ✍️ semi-technical stuff. You can find my articles on [Medium](https://medium.com/@joe733/) and [DevTo](https://dev.to/joe733/) profiles.
+- 📦 Run through [my software projects](https://github.com/joe733?tab=repositories) to see what I'm working on.
+- 🤩 Awesome fields that I aspire to work in are:
+	- 🧬 Deep Learning
+	- 👨‍💻 Quantum Programming
+	- 💙 Flutter
+	- 💸 IOTA
+	- 🎛 Raspberry Pi
+- ❤️ Coding languages that I love to work with and talk about are **Python** 🐍, **Nim** 👑 and **Dart** 🎯.
+- ✍️ I write semi-technical stuff. You can find my articles on [Medium](https://medium.com/@joe733/) and [DevTo](https://dev.to/joe733/) profiles.
+- ⚡️ Fun Fact: Loading brain metadata...
 
-<br />
-
-:bar_chart: Some ~~dumb~~ statistics :nerd_face:
+:bar_chart: Some statistical insights  :nerd_face:
 
 <!--START_SECTION:waka-->
 ```text
