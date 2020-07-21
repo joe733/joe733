@@ -14,7 +14,9 @@ I'm [joe733](https://github.com/joe733). I'm a technology enthusiast.
 - ✍️ I write semi-technical stuff. You can find my articles on [Medium](https://medium.com/@joe733/) and [DevTo](https://dev.to/joe733/) profiles.
 - ⚡️ Fun Fact: Loading brain metadata...
 
-:bar_chart: Some statistical insights  :nerd_face:
+---
+
+**:bar_chart: Some statistical insights :nerd_face:**
 
 <!--START_SECTION:waka-->
 ```text
@@ -27,6 +29,10 @@ Docker     9 mins          ░░░░░░░░░░░░░░░░░�
 YAML       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 <!--END_SECTION:waka-->
+
+---
+
+**Blah Blah Blah Extras**
 
 [![Jovial's github stats](https://github-readme-stats.vercel.app/api?username=joe733)](https://github.com/joe733)
 
