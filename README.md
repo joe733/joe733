@@ -1,10 +1,9 @@
-### Hello! 👋
-
 <p align='center'>
 <img src='https://i.stack.imgur.com/UbstJ.png' width='700' />
 </p>
 
-Hi, I'm @joe33. I'm a technology enthusiast.
+### Hello! 👋
+I'm @joe33. I'm a technology enthusiast.
 
 - Run through [my software projects](https://github.com/joe733?tab=repositories) 📦 to see what I'm working on.
 - Awesome 🤩 fields that I aspire to work in are:
