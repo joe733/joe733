@@ -1,6 +1,6 @@
 <img src='https://i.stack.imgur.com/UbstJ.png' />
 
-### Hello! 👋
+### 👋 Hello!
 I'm [joe733](https://github.com/joe733). I'm a technology enthusiast.
 
 - 📦 Run through [my software projects](https://github.com/joe733?tab=repositories) to see what I'm working on.
@@ -16,7 +16,7 @@ I'm [joe733](https://github.com/joe733). I'm a technology enthusiast.
 
 ---
 
-**:bar_chart: Some statistical insights :nerd_face:**
+### :bar_chart: Some statistical insights :nerd_face:
 
 <!--START_SECTION:waka-->
 ```text
@@ -30,11 +30,11 @@ JSON       6 mins          ░░░░░░░░░░░░░░░░░�
 
 ---
 
-**Blah Blah Blah Extras**
+### ✨ Extras Loading . . .
 
-[![Jovial's github stats](https://github-readme-stats.vercel.app/api?username=joe733)](https://github.com/joe733)
+![Jovial's github stats](https://github-readme-stats.vercel.app/api?username=joe733&show_icons=true&hide_border=true)
 
-<p align='center'>
+### **🔗 Connect**
 <a href='https://twitter.com/joe_733'><img src='https://i.stack.imgur.com/xR1Qg.png' width='24'/></a>&nbsp;
 <a href='https://www.facebook.com/jovialjoejayarson'><img src='https://i.stack.imgur.com/U9qVP.png' width='24'/></a>&nbsp;
 <a href='https://www.linkedin.com/in/joe733'><img src='https://i.stack.imgur.com/VrlLG.png' width='24'/></a>&nbsp;
@@ -45,4 +45,4 @@ JSON       6 mins          ░░░░░░░░░░░░░░░░░�
 <a href='https://www.hackerrank.com/joe733'><img src='https://i.stack.imgur.com/giL3d.png' width='24'/></a>&nbsp;
 <a href='https://www.codewars.com/users/joe733'><img src='https://i.stack.imgur.com/y9Ee7.png' width='24'/></a>&nbsp;
 <a href='https://repl.it/@joe7py'><img src='https://i.stack.imgur.com/KYxIp.png' width='24'/></a>
-</p>
+
