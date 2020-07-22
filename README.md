@@ -20,13 +20,11 @@ I'm [joe733](https://github.com/joe733). I'm a technology enthusiast.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 July, 2020 - 20 July, 2020
-
-Python     3 hrs 36 mins   █████████████░░░░░░░░░░░░   53.69 % 
-Markdown   2 hrs 8 mins    ████████░░░░░░░░░░░░░░░░░   31.93 % 
-Dart       38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Docker     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-YAML       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Python     5 hrs 54 mins   ████████████████░░░░░░░░░   65.38 % 
+Markdown   2 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   23.44 % 
+Dart       38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Docker     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+JSON       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 <!--END_SECTION:waka-->
 
