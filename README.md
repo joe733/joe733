@@ -20,11 +20,11 @@ I'm [joe733](https://github.com/joe733). I'm a technology enthusiast.
 
 <!--START_SECTION:waka-->
 ```text
-Python     5 hrs 54 mins   ████████████████░░░░░░░░░   65.38 % 
-Markdown   2 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   23.44 % 
-Dart       38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Docker     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-JSON       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Python     5 hrs 43 mins   ████████████████░░░░░░░░░   67.28 % 
+Markdown   1 hr 47 mins    █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Dart       38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Docker     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+JSON       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 <!--END_SECTION:waka-->
 
