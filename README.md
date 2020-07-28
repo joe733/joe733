@@ -20,12 +20,12 @@ I'm [joe733](https://github.com/joe733). I'm a technology enthusiast.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 July, 2020 - 26 July, 2020
+Week: 20 July, 2020 - 27 July, 2020
 
-Python     3 hrs 59 mins   ███████████████████████░░   95.49 % 
-JSON       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python     3 hrs 55 mins   ███████████████████████░░   95.42 % 
+JSON       6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Dart       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 <!--END_SECTION:waka-->
