@@ -1,7 +1,7 @@
-<img src='https://i.stack.imgur.com/UbstJ.png' />
+<img src='https://i.stack.imgur.com/6vhWN.png' />
 
 ### 👋 Hello!
-I'm [joe733](https://github.com/joe733). I'm a technology enthusiast.
+I'm Jovial Joe Jayarson (that's mouthful? call me *joe* :wink:). I'm a technology enthusiast.
 
 - 📦 Run through [my software projects](https://github.com/joe733?tab=repositories) to see what I'm working on.
 - 🤩 Awesome fields that I aspire to work in are:
@@ -31,9 +31,13 @@ Dart       0 secs          ░░░░░░░░░░░░░░░░░�
 
 ---
 
-### ✨ Extras Loading . . .
+### ✨ Extras
 
-![Jovial's github stats](https://github-readme-stats.vercel.app/api?username=joe733&show_icons=true&hide_border=true)
+![](https://komarev.com/ghpvc/?username=joe733)
+
+| ![Jovial's github stats](https://github-readme-stats.vercel.app/api?username=joe733&show_icons=true&count_private=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe733&layout=compact&theme=dark) |
+| --- | --- |
+---
 
 ### **🔗 Connect**
 <a href='https://twitter.com/joe_733'><img src='https://i.stack.imgur.com/xR1Qg.png' width='24'/></a>&nbsp;
