@@ -20,10 +20,11 @@ I'm Jovial Joe Jayarson (that's mouthful? call me *joe* :wink:). I'm a technolog
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 July, 2020 - 29 July, 2020
+Week: 23 July, 2020 - 30 July, 2020
 
-Python     1 hr 6 mins     ███████████████████████░░   93.11 % 
-Markdown   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Python     3 hrs 2 mins    ████████████████████████░   97.18 % 
+Markdown   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Dart       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
