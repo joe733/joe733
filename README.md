@@ -12,7 +12,7 @@ I'm Jovial Joe Jayarson (that's mouthful? call me *joe* :wink:). I'm a technolog
 	- 🎛 Raspberry Pi
 - ❤️ Coding languages that I love to work with and talk about are **Python** 🐍, **Nim** 👑 and **Dart** 🎯.
 - ✍️ I write semi-technical stuff. You can find my articles on [Medium](https://medium.com/@joe733/) and [DevTo](https://dev.to/joe733/) profiles.
-- ⚡️ Fun Fact: Loading brain metadata...
+- ⚡️ Fun Fact: <https://sourcerer.io/joe733?fun_fact=top-developer-python>
 
 ---
 
