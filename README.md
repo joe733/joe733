@@ -20,7 +20,7 @@ I'm Jovial Joe Jayarson (that's mouthful? call me *joe* :wink:). I'm a technolog
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 August, 2020 - 23 August, 2020
+Week: 17 August, 2020 - 24 August, 2020
 
 Dart         3 hrs 55 mins   ████████████████▓░░░░░░░░   66.18 % 
 Python       1 hr 35 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.93 % 
