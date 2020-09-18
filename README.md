@@ -20,11 +20,12 @@ I'm Jovial Joe Jayarson (that's mouthful? call me *joe* :wink:). I'm a technolog
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 September, 2020 - 16 September, 2020
+Week: 10 September, 2020 - 17 September, 2020
 
-Markdown   2 hrs 50 mins   █████████████████░░░░░░░░   67.76 % 
-Dart       1 hr 12 mins    ███████▒░░░░░░░░░░░░░░░░░   28.84 % 
-YAML       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Markdown   4 hrs 28 mins   █████████████████▓░░░░░░░   71.24 % 
+Dart       1 hr 12 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Python     27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+YAML       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 ```
 <!--END_SECTION:waka-->
 
