@@ -1,5 +1,3 @@
-<img src='https://i.stack.imgur.com/6vhWN.png' />
-
 ### 👋 Hello!
 I'm Jovial Joe Jayarson (that's mouthful? call me *joe* :wink:). I'm a technology enthusiast.
 
