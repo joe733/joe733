@@ -1,5 +1,5 @@
 ### 👋 Hello!
-I'm Jovial Joe Jayarson (that's mouthful? call me *joe* :wink:). I'm a technology enthusiast.
+Call me joe. I'm a technophile..
 
 - 📦 Run through [my software projects](https://github.com/joe733?tab=repositories) to see what I'm working on.
 - 🤩 Awesome fields that I aspire to work in are:
@@ -34,8 +34,8 @@ Markdown   11 mins         ▒░░░░░░░░░░░░░░░░�
 
 ![](https://komarev.com/ghpvc/?username=joe733)
 
-| ![Jovial's github stats](https://github-readme-stats.vercel.app/api?username=joe733&show_icons=true&count_private=true&theme=dark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joe733&layout=compact&theme=dark) |
-| --- | --- |
+![Jovial's github stats](https://github-readme-stats.vercel.app/api?username=joe733&show_icons=true&count_private=true&theme=dark)
+
 ---
 
 ### 🔗 Connect
