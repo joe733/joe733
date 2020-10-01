@@ -38,7 +38,7 @@ Markdown   11 mins         ▒░░░░░░░░░░░░░░░░�
 | --- | --- |
 ---
 
-### **🔗 Connect**
+### 🔗 Connect
 <a href='https://twitter.com/joe_733'><img src='https://i.stack.imgur.com/xR1Qg.png' width='24'/></a>&nbsp;
 <a href='https://www.facebook.com/jovialjoejayarson'><img src='https://i.stack.imgur.com/U9qVP.png' width='24'/></a>&nbsp;
 <a href='https://www.linkedin.com/in/joe733'><img src='https://i.stack.imgur.com/VrlLG.png' width='24'/></a>&nbsp;
@@ -50,3 +50,6 @@ Markdown   11 mins         ▒░░░░░░░░░░░░░░░░�
 <a href='https://www.codewars.com/users/joe733'><img src='https://i.stack.imgur.com/y9Ee7.png' width='24'/></a>&nbsp;
 <a href='https://repl.it/@joe7py'><img src='https://i.stack.imgur.com/KYxIp.png' width='24'/></a>
 
+### 🎃 Hall of F`l`ame | WakaReadme
+
+[![](https://sourcerer.io/fame/joe733/athul/waka-readme/images/0)](https://sourcerer.io/fame/joe733/athul/waka-readme/links/0)[![](https://sourcerer.io/fame/joe733/athul/waka-readme/images/1)](https://sourcerer.io/fame/joe733/athul/waka-readme/links/1)[![](https://sourcerer.io/fame/joe733/athul/waka-readme/images/2)](https://sourcerer.io/fame/joe733/athul/waka-readme/links/2)[![](https://sourcerer.io/fame/joe733/athul/waka-readme/images/3)](https://sourcerer.io/fame/joe733/athul/waka-readme/links/3)[![](https://sourcerer.io/fame/joe733/athul/waka-readme/images/4)](https://sourcerer.io/fame/joe733/athul/waka-readme/links/4)[![](https://sourcerer.io/fame/joe733/athul/waka-readme/images/5)](https://sourcerer.io/fame/joe733/athul/waka-readme/links/5)[![](https://sourcerer.io/fame/joe733/athul/waka-readme/images/6)](https://sourcerer.io/fame/joe733/athul/waka-readme/links/6)[![](https://sourcerer.io/fame/joe733/athul/waka-readme/images/7)](https://sourcerer.io/fame/joe733/athul/waka-readme/links/7)
