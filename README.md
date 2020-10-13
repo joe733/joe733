@@ -18,7 +18,7 @@ Call me joe. I'm a technophile..
 
 <!--START_SECTION:waka-->
 ```text
-Week: 04 October, 2020 - 11 October, 2020
+Week: 05 October, 2020 - 12 October, 2020
 
 HTML       37 mins         ███████████▓░░░░░░░░░░░░░   47.17 % 
 Markdown   28 mins         █████████░░░░░░░░░░░░░░░░   36.26 % 
