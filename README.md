@@ -2,14 +2,14 @@
 Call me joe. I'm a technophile..
 
 - 📦 Run through [my software projects](https://github.com/joe733?tab=repositories) to see what I'm working on.
-- 🤩 Awesome fields that I aspire to work in are:
+- 🤩 Awesome fields that I aspire to work with:
 	- 🧬 Deep Learning
 	- 👨‍💻 Quantum Programming
 	- 💙 Flutter
 	- 💸 IOTA
 	- 🎛 Raspberry Pi
-- ❤️ Coding languages that I love to work with and talk about are **Python** 🐍, **Nim** 👑 and **Dart** 🎯.
-- ✍️ I write semi-technical stuff. You can find my articles on [Medium](https://medium.com/@joe733/) and [DevTo](https://dev.to/joe733/) profiles.
+- ❤️ Coding languages that I work and talk about are **Python** 🐍, **Nim** 👑 and **Dart** 🎯.
+- ✍️ I write semi-technical stuff. You can find my articles on [Medium](https://medium.com/@joe733/) and [DevTo](https://dev.to/joe733/).
 - ⚡️ Fun Fact: <https://sourcerer.io/joe733?fun_fact=top-developer-python>
 
 ---
