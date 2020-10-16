@@ -18,13 +18,13 @@ Call me joe. I'm a technophile..
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 October, 2020 - 14 October, 2020
+Week: 08 October, 2020 - 15 October, 2020
 
-HTML       37 mins         ████████▓░░░░░░░░░░░░░░░░   34.57 % 
-Markdown   28 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.58 % 
-JSON       19 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.32 % 
-Java       7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Python     7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Markdown   55 mins         █████████▒░░░░░░░░░░░░░░░   37.73 % 
+HTML       37 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.41 % 
+JSON       19 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Python     13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Java       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 ```
 <!--END_SECTION:waka-->
 
