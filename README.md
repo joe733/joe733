@@ -18,6 +18,8 @@ You can call me *Joe*. I'm a technophile.
 
 ![Clicks](https://komarev.com/ghpvc/?username=joe733)
 
+> Disclaimer: CSS isn't my top language. This metric know maths but not me :smile:. My primary tool is `Python`.
+
 ![GitHub metrics](https://github.com/joe733/joe733/blob/master/github-metrics.svg)
 
 <!--START_SECTION:waka-->
