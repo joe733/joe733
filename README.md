@@ -1,5 +1,5 @@
 ### 👋 Hello!
-Call me joe. I'm a technophile..
+You can call me *Joe*. I'm a technophile.
 
 - 📦 Run through [my software projects](https://github.com/joe733?tab=repositories) to see what I'm working on.
 - 🤩 Awesome fields that I aspire to work with:
@@ -16,7 +16,9 @@ Call me joe. I'm a technophile..
 
 ### :bar_chart: Metrics :nerd_face:
 
-![](https://komarev.com/ghpvc/?username=joe733)
+![Clicks](https://komarev.com/ghpvc/?username=joe733)
+
+![GitHub metrics](https://github.com/joe733/joe733/blob/master/github-metrics.svg)
 
 <!--START_SECTION:waka-->
 ```text
@@ -29,8 +31,6 @@ Python     9 mins          █▒░░░░░░░░░░░░░░░�
 Java       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 ```
 <!--END_SECTION:waka-->
-
-![GitHub metrics](https://github.com/joe733/joe733/blob/master/github-metrics.svg)
 
 ![Jovial's github stats](https://github-readme-stats.vercel.app/api?username=joe733&show_icons=true&count_private=true&theme=dark)
 
