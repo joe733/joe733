@@ -35,7 +35,7 @@ jobs:
           # You can provide a PageSpeed token to add your site's performance results on the metrics SVG image
           # See https://developers.google.com/speed/docs/insights/v5/get-started to obtain a key
           plugin_pagespeed: no
-          pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          # pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
 
           # Enable repositories lines added/removed count
           plugin_lines: no
