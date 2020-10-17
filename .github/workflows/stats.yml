@@ -1,0 +1,51 @@
+name: GitHub metrics as SVG image
+on:
+  # Update metrics each 15 minutes. Edit this if you want to increase/decrease frequency
+  # Note that GitHub image cache (5-15 minutes) still apply so it is useless to set less than this, you're image won't be refreshed
+  schedule: [{cron: "*/15 * * * *"}]
+  # Add this if you want to force update each time you commit on master branch
+  push: {branches: "master"}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: joe733/metrics@latest
+        # This line will prevent this GitHub action from running when it is updated by itself if you enabled trigger on master branch
+        if: "!contains(github.event.head_commit.message, '[Skip GitHub Action]')"
+        with:
+
+          # Your GitHub token ("public_repo" is required to allow this action to update the metrics SVG image)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Your GitHub user name
+          user: joe733
+
+          # Additional options
+          # ==========================================
+
+          # The GitHub token used to commit to your repository (defaults to the same value as "token")
+          # This can be used to specify the token of a bot account if you use a personal token with advanced permissions
+          # (which is needed if you want to include metrics of your private repositories, or to enable plugins like traffic)
+          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+
+          # Path/filename to use to store generated SVG
+          filename: github-metrics.svg
+
+          # If you own a website and you added it to your GitHub profile,
+          # You can provide a PageSpeed token to add your site's performance results on the metrics SVG image
+          # See https://developers.google.com/speed/docs/insights/v5/get-started to obtain a key
+          plugin_pagespeed: no
+          pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+
+          # Enable repositories lines added/removed count
+          plugin_lines: no
+
+          # Enable repositories traffic (pages views) count
+          # The provided GitHub token will require "repo" permissions
+          plugin_traffic: no
+
+          # Enable or disable coding habits metrics
+          plugin_habits: no
+
+          # Enable debug logs
+          debug: no
