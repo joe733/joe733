@@ -2,7 +2,7 @@ name: GitHub metrics as SVG image
 on:
   # Update metrics each 15 minutes. Edit this if you want to increase/decrease frequency
   # Note that GitHub image cache (5-15 minutes) still apply so it is useless to set less than this, you're image won't be refreshed
-  schedule: [{cron: "*/15 * * * *"}]
+  schedule: [{cron: "*/60 * * * *"}]
   # Add this if you want to force update each time you commit on master branch
   push: {branches: "master"}
 jobs:
@@ -26,7 +26,7 @@ jobs:
           # The GitHub token used to commit to your repository (defaults to the same value as "token")
           # This can be used to specify the token of a bot account if you use a personal token with advanced permissions
           # (which is needed if you want to include metrics of your private repositories, or to enable plugins like traffic)
-          committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
+          # committer_token: ${{ secrets.METRICS_BOT_TOKEN }}
 
           # Path/filename to use to store generated SVG
           filename: github-metrics.svg
