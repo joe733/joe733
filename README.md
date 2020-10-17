@@ -14,7 +14,9 @@ Call me joe. I'm a technophile..
 
 ---
 
-### :bar_chart: Some statistical insights :nerd_face:
+### :bar_chart: Metrics :nerd_face:
+
+![](https://komarev.com/ghpvc/?username=joe733)
 
 <!--START_SECTION:waka-->
 ```text
@@ -28,11 +30,7 @@ Java       7 mins          █▒░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
----
-
-### ✨ Extras
-
-![](https://komarev.com/ghpvc/?username=joe733)
+![GitHub metrics](https://github.com/joe733/joe733/blob/master/github-metrics.svg)
 
 ![Jovial's github stats](https://github-readme-stats.vercel.app/api?username=joe733&show_icons=true&count_private=true&theme=dark)
 
