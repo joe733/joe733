@@ -39,7 +39,7 @@ Java       7 mins          █▒░░░░░░░░░░░░░░░�
 ---
 
 ### 🔗 Connect
-<a href='https://twitter.com/joe_733'><img src='https://i.stack.imgur.com/xR1Qg.png' width='24'/></a>&nbsp;
+<a href='https://twitter.com/_joe733'><img src='https://i.stack.imgur.com/xR1Qg.png' width='24'/></a>&nbsp;
 <a href='https://www.facebook.com/jovialjoejayarson'><img src='https://i.stack.imgur.com/U9qVP.png' width='24'/></a>&nbsp;
 <a href='https://www.linkedin.com/in/joe733'><img src='https://i.stack.imgur.com/VrlLG.png' width='24'/></a>&nbsp;
 <a href='https://dev.to/joe733'><img src='https://i.stack.imgur.com/Vsd9o.png' width='24'/></a>&nbsp;
