@@ -16,7 +16,7 @@ You can call me *Joe*. I'm a technophile.
 
 ### :bar_chart: Metrics :nerd_face:
 
-![Clicks](https://komarev.com/ghpvc/?username=joe733)
+![Clicks](https://komarev.com/ghpvc/?username=joe733) ![Waka Readme](https://github.com/joe733/joe733/workflows/Waka%20Readme/badge.svg) ![GitHub metrics as SVG image](https://github.com/joe733/joe733/workflows/GitHub%20metrics%20as%20SVG%20image/badge.svg)
 
 <!--START_SECTION:waka-->
 ```text
