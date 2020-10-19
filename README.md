@@ -18,10 +18,6 @@ You can call me *Joe*. I'm a technophile.
 
 ![Clicks](https://komarev.com/ghpvc/?username=joe733)
 
-> Disclaimer: CSS isn't my top language. This metric know maths but not me :smile:. My primary tool is `Python`.
-
-![GitHub metrics](https://github.com/joe733/joe733/blob/master/github-metrics.svg)
-
 <!--START_SECTION:waka-->
 ```text
 Week: 09 October, 2020 - 16 October, 2020
@@ -34,7 +30,9 @@ Java       7 mins          █▒░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-![Jovial's github stats](https://github-readme-stats.vercel.app/api?username=joe733&show_icons=true&count_private=true&theme=dark)
+> Disclaimer: CSS isn't my top language. This metric know maths but not me :smile:. My primary tool is `Python`.
+
+![GitHub metrics](https://github.com/joe733/joe733/blob/master/github-metrics.svg)
 
 ---
 
