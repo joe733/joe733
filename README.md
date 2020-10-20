@@ -20,13 +20,13 @@ You can call me *Joe*. I'm a technophile.
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 October, 2020 - 18 October, 2020
+Week: 12 October, 2020 - 19 October, 2020
 
-Python     2 hrs 14 mins   ███████████▓░░░░░░░░░░░░░   46.78 % 
-Other      1 hr 20 mins    ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-Markdown   26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-JSON       19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-Java       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Python       5 hrs 42 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   53.01 % 
+Other        3 hrs 24 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   31.61 % 
+Markdown     26 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.15 % 
+JSON         23 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.61 % 
+Git Config   22 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.50 % 
 ```
 <!--END_SECTION:waka-->
 
