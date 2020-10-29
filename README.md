@@ -30,9 +30,9 @@ Java       4 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 <!--END_SECTION:waka-->
 
-> Disclaimer: CSS isn't my top language. This metric know maths but not me :smile:. My primary tool is `Python`.
-
 ![GitHub metrics](https://github.com/joe733/joe733/blob/master/github-metrics.svg)
+
+> Disclaimer: CSS isn't my top language. This metric knows maths but not me :smile:. My primary tool is `Python`.
 
 ---
 
@@ -46,7 +46,7 @@ Java       4 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <a href='https://stackoverflow.com/users/8828460/joe733'><img src='https://i.stack.imgur.com/s23fT.png' width='24'/></a>&nbsp;
 <a href='https://www.hackerrank.com/joe733'><img src='https://i.stack.imgur.com/giL3d.png' width='24'/></a>&nbsp;
 <a href='https://www.codewars.com/users/joe733'><img src='https://i.stack.imgur.com/y9Ee7.png' width='24'/></a>&nbsp;
-<a href='https://repl.it/@joe7py'><img src='https://i.stack.imgur.com/KYxIp.png' width='24'/></a>
+<a href='https://repl.it/@joe733'><img src='https://i.stack.imgur.com/KYxIp.png' width='24'/></a>
 
 ### 🎃 Hall of F`l`ame | WakaReadme
 
