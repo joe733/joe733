@@ -42,5 +42,5 @@ C          2 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <a href='https://joe733.medium.com/'><img src='https://i.stack.imgur.com/Il68G.png' width='24'/></a>&nbsp;
 <a href='https://stackoverflow.com/users/8828460/joe733'><img src='https://i.stack.imgur.com/s23fT.png' width='24'/></a>&nbsp;
 <a href='https://www.hackerrank.com/joe733'><img src='https://i.stack.imgur.com/giL3d.png' width='24'/></a>&nbsp;
-<a href='https://www.codewars.com/users/joe733'><img src='https://i.stack.imgur.com/y9Ee7.png' width='24'/></a>&nbsp;
+<a href='https://www.codechef.com/users/joe733'><img src='https://i.stack.imgur.com/JoNEB.png' width='24'/></a>&nbsp;
 <a href='https://repl.it/@joe733'><img src='https://i.stack.imgur.com/KYxIp.png' width='24'/></a>
