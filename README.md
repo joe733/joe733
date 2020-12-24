@@ -8,13 +8,15 @@ You can call me *Joe*. I'm a technophile.
 	- 💙 Flutter
 	- 💸 IOTA
 	- 🎛 Raspberry Pi
-- ❤️ Coding languages that I work and talk about are **Python** 🐍, **Nim** 👑 and **Dart** 🎯.
+- 🧑‍💻 Coding language that I work with: **Python** 🐍.
+	- I can read & comprehend C/C++, Java, HTML/CSS/JS, Shell, Google Apps Script
+	- I'm learning: Nim 👑, Dart 🎯
 - ✍️ I write semi-technical stuff. You can find my articles on [Medium](https://medium.com/@joe733/) and [DevTo](https://dev.to/joe733/).
-- ⚡️ Fun Fact: <https://sourcerer.io/joe733?fun_fact=top-developer-python>
+- ⚡️ Fun Fact: Got a weird [Wiki page](https://en.wikipedia.org/wiki/JOVIAL) after me :wink:.
 
 ---
 
-### :bar_chart: Metrics :nerd_face:
+### :bar_chart: Statistics :nerd_face:
 
 ![Waka Readme](https://github.com/joe733/joe733/workflows/Waka%20Readme/badge.svg) ![GitHub metrics as SVG image](https://github.com/joe733/joe733/workflows/GitHub%20metrics%20as%20SVG%20image/badge.svg)
 
