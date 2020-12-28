@@ -19,6 +19,7 @@ jobs:
           user: joe733
           template: classic
           base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
           plugin_followup: yes
           debug: yes
           plugin_gists: yes
@@ -28,3 +29,8 @@ jobs:
           plugin_languages_ignored: CSS, HTML
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 7
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
