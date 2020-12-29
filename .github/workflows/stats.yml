@@ -2,7 +2,7 @@
 name: GitHub metrics
 on:
   # Schedule updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 * * *"}] #  12AM
   push: {branches: "master"}
 jobs:
   github-metrics:
