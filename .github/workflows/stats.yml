@@ -21,7 +21,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           plugin_followup: yes
-          debug: yes
+          # debug: yes
           plugin_gists: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
