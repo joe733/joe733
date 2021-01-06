@@ -27,6 +27,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: CSS, HTML
           plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_detailed: yes
           plugin_habits: yes
           plugin_habits_from: 200
