@@ -9,7 +9,7 @@ You can call me *Joe*. I'm a technophile.
 	- 💸 IOTA
 	- 🎛 Raspberry Pi
 - 🧑‍💻 Coding language that I work with: **Python** 🐍
-	- I can read & comprehend C/C++, Java, HTML/CSS/JS, Shell, Google Apps Script
+	- I can read & comprehend C/C++, Java, HTML/CSS, Shell, Google Apps Script
 	- I'm learning: Nim 👑, Dart 🎯
 - ✍️ I write semi-technical stuff. You can find my articles on [Medium](https://medium.com/@joe733/) and [DevTo](https://dev.to/joe733/)
 - ⚡️ Fun Fact: Got a cool 😎 [Wiki page](https://en.wikipedia.org/wiki/JOVIAL) after my name :wink:
