@@ -39,6 +39,8 @@ You can call me *Joe*. I'm a technophile.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 March, 2021 - 09 March, 2021
+
+Text    1 hr 48 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.75 % 
 ```
 <!--END_SECTION:waka-->
