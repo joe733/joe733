@@ -1027,7 +1027,7 @@
                 
                   <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
-                  <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                  <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                 
               </g>
             </svg>
@@ -1432,7 +1432,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.56 s
+                0.69 s
               
             </div>
             
@@ -1454,7 +1454,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.56 s
+                0.69 s
               
             </div>
             
@@ -1465,7 +1465,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.94 s
+                0.69 s
               
             </div>
             
@@ -1476,7 +1476,7 @@
           <div class="field">
             <div class="audit text">
               
-                0.07 
+                0.03 
               
             </div>
             
@@ -1564,7 +1564,7 @@
           
             <span>These metrics include private contributions, timezone Asia/Kolkata</span>
           
-          <span>Last updated Mon, 15 Mar 2021 00:55:28 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Tue, 16 Mar 2021 00:54:06 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
